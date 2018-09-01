@@ -28,3 +28,5 @@ function dec(a){
 function makeInt(a){
   return parsInt(a, 10);
 }
+makeInt(a);
+
